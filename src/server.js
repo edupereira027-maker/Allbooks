@@ -19,7 +19,6 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("API de livros rodando na porta 8000")
-  console.log("API All Books")
   console.log("Servidor rodando na porta 8000")
   console.log("API disponível através da URL: http://localhost:8000")
 })
